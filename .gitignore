@@ -2,3 +2,4 @@ bem-bl
 pages/*/*.css*
 pages/*/*.js*
 pages/*/*.html
+!pages/*/*.bemjson.js
